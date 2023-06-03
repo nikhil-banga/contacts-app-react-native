@@ -42,11 +42,11 @@ Serves as the main component for the contact app, managing the state of contacts
 
 ## Screenshots
 
-![](https://github.com/nikhil-banga/contacts-app-react-native/blob/main/Screenshots/2.png?raw=true)
+![](https://github.com/nikhil-banga/contacts-app-react-native/blob/master/Screenshots/2.png?raw=true)
 
-![](https://github.com/nikhil-banga/contacts-app-react-native/blob/main/Screenshots/3.png?raw=true)
+![](https://github.com/nikhil-banga/contacts-app-react-native/blob/master/Screenshots/3.png?raw=true)
 
-![](https://github.com/nikhil-banga/contacts-app-react-native/blob/main/Screenshots/4.png?raw=true)
+![](https://github.com/nikhil-banga/contacts-app-react-native/blob/master/Screenshots/4.png?raw=true)
 
 ## Running the Project
 
