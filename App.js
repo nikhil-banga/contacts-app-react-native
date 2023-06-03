@@ -1,6 +1,6 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
-import ContactsScreen from "./screens/ContactsScreen";
+import ContactsScreen from "./Components/ContactsScreen";
 
 export default function App() {
   return (
@@ -13,6 +13,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#ffffff",
+    backgroundColor: "#1B262C",
+    paddingTop: 40,
   },
 });
