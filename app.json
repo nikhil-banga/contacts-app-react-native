@@ -4,27 +4,31 @@
     "slug": "Contacts",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/c_icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/c.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1B262C"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/c_icon.png",
+        "backgroundColor": "#1B262C"
+      },
+      "package": "com.nbanga.Contacts"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/c.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6dd1ce3-9ad6-4a43-8d6a-539321c14d59"
+      }
     }
   }
 }
